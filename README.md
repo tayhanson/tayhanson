@@ -1,8 +1,8 @@
  **Hi everyone**👋
  
- I'm Taylor Hanson a software engineer & critical care nurse.
-- 🤓 I'm currently finishing Digital Crafts Fullstack Dev bootcamp in June.
-- 🌱 I’m currently learning React
+ I'm Taylor Hanson a technical program manager in the MS LEAP program.
+- 🤓 I am a TA for Digital Crafts web dev bootcamp.
+- 🌱 I’m currently learning C#
 - 😄 Pronouns: She/Her/Hers
 - ⭐ Fun fact: I Love Harry Potter⚡ Running🏃🏼‍♀️ and Neuroscience🧠
 
