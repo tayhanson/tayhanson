@@ -1,6 +1,6 @@
  **Hi everyone**👋
  
- I'm Taylor Hanson a technical program manager in the MS LEAP program.
+ I'm Taylor Hanson, a technical program manager in the MS LEAP program.
 - 🤓 I am a TA for Digital Crafts web dev bootcamp.
 - 🌱 I’m currently learning C#
 - 😄 Pronouns: She/Her/Hers
