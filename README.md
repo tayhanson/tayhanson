@@ -1,7 +1,7 @@
  **Hi everyone**👋
  
- I'm Taylor Hanson, a technical program manager in the MS LEAP program.
-- 🤓 I am a TA for Digital Crafts web dev bootcamp.
+ I'm Taylor Hanson, a technical program manager in Azure Cloud Computing in the Microsoft LEAP program.
+- 🤓 I am a TA for Digital Crafts fullstack software engineering bootcamp.
 - 🌱 I’m currently learning C#
 - 😄 Pronouns: She/Her/Hers
 - ⭐ Fun fact: I Love Harry Potter⚡ Running🏃🏼‍♀️ and Neuroscience🧠
