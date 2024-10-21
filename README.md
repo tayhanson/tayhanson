@@ -1,6 +1,6 @@
  **Hi everyone**👋
  
- I'm Taylor Hanson, a technical program manager in Azure Cloud Computing in the Microsoft LEAP program.
+ I'm a technical program manager in Azure Core General Purpose Compute Platforms & Proccesses currently driving Intel Gen 10 VMs to customer preview.
 - 🤓 I am a TA for Digital Crafts fullstack software engineering bootcamp.
 - 🌱 I’m currently learning C#
 - 😄 Pronouns: She/Her/Hers
